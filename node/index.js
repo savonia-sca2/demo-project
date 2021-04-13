@@ -25,5 +25,5 @@ const orderRoutes = require('./routes/orderRoutes');
 app.use(orderRoutes);
 
 app.listen(port, hostname, () => {
-    console.log(`36-44 Server running at http://${hostname}:${port}/`);
+    console.log(`Server running at http://${hostname}:${port}/`);
 });
