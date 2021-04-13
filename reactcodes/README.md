@@ -1,3 +1,3 @@
 README.md
 
-Tämä hakemisto on tyhjä hakemisto, joka ei sisällä vielä mitään. Tee itse React-sovellus komennolla npx create-react-app projectapp (projectapp:n tilalle voit tietysti laittaa oman sovelluksesi nimen). Anna em. komento reactcodes-hakemistossa.
+Tämä hakemisto on tyhjä hakemisto, jossa on vain pohja React-sovellukselle. Anna komento npm install tässä hakemistossa, jolloin React-sovellus luodaan. Kun sovellus on valmiina, anna komento npm start.
